@@ -9,3 +9,7 @@
 - Установить зависимости `npm ci`
 - Для разработки запустить `npm run dev` и перейти по адресу `http://localhost:3000`
 - Для сборки для режима эксплуатации запустить `npm run build` и `npm run preview`, перейти по адресу `http://localhost:4173`
+
+## Демо
+
+Демо проекта на [github pages](https://monochromer.github.io//apartment-filter/)

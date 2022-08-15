@@ -7,5 +7,7 @@ export default defineConfig({
     vue()
   ],
 
-  root: 'src'
+  root: 'src',
+
+  base: process.env.PUBLIC_PATH ?? '/'
 })
